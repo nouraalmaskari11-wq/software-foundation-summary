@@ -1,0 +1,316 @@
+   
+ 
+   
+ 
+Noura almaskari      11/11/2025 
+ 
+
+ 
+1. What is the Software Development Life Cycle (SDLC)? 
+The Software Development Life Cycle (SDLC) is a structured process that defines the 
+stages of developing software, including planning, analysis, design, development, testing, 
+implementation, and maintenance. 
+ Its main goal is to produce high-quality software that meets user requirements, within time 
+and budget constraints. 
+ 
+Importance of SDLC 
+• Ensures quality and reliability of software. 
+• Helps manage time, cost, and risks effectively. 
+• Defines clear roles and responsibilities for team members. 
+• Ensures the system meets user needs and is easy to maintain. 
+ 
+Why It’s Used in Modern Projects 
+Modern software projects are complex and dynamic. SDLC provides a systematic and 
+flexible framework (like Agile models) that helps teams collaborate efficiently, adapt to 
+changing requirements, and maintain consistent quality. 
+ 
+ 
+ 
+ 
+2. Phases of SDLC: Inputs, Outputs, and Key Challenges 
+Phase Inputs Outputs 3 Key Challenges 
+ Analysis - Project plan - User 
+requirements - Existing system 
+documentation - Requirement 
+specification document 
+(SRS) - Detailed functional and 
+non-functional 
+requirements 
+1. Collecting complete 
+and clear requirements 
+2. Conflicting 
+stakeholder 
+expectations 
+3. Miscommunication 
+   
+ 
+   
+ 
+between users and 
+analysts 
+ Design - Requirement 
+specification 
+document - Business rules - Technical 
+constraints - System architecture - Database and interface 
+designs - Design documentation 
+1. Choosing the right 
+architecture 
+2. Balancing 
+performance vs. cost 
+3. Designing for 
+scalability and 
+maintainability 
+ Development 
+(Implementatio
+ n) - Design 
+documents - Development 
+environment - Project plan - Source code - Executable programs - Development 
+documentation 
+1. Writing error-free 
+and maintainable code 
+2. Integrating different 
+modules smoothly 
+3. Meeting deadlines 
+without sacrificing 
+quality 
+ Testing - Developed 
+software - Test plans - Test cases - Bug/defect reports - Verified and validated 
+system - Test summary report 
+1. Detecting all critical 
+bugs 
+2. Limited time for 
+thorough testing 
+3. Incomplete or 
+unclear test cases 
+ 
+Implementatio
+ n (Deployment) - Tested software - User manuals - Training 
+materials - Live system - Trained users - Deployment report 
+1. Ensuring smooth 
+system rollout 
+2. Handling 
+unexpected errors in 
+production 
+3. User resistance to 
+change 
+ Maintenance - Live system - User feedback - Error/bug 
+reports - Updated system - Patch/fix releases - Performance 
+improvements 
+1. Managing 
+unexpected bugs 
+2. Updating without 
+disrupting users 
+3. Controlling costs 
+over long-term 
+maintenance 
+ 
+ 
+ 
+   
+ 
+ 
+Roles and Responsibilities in SDLC Phases 
+Other Roles (UX/UI 
+Designer , Database 
+Admin , etc ). 
+Project 
+Manager 
+(PM) 
+Quality 
+Assurance 
+(QA) 
+Develope
+ r 
+Business 
+Analyst 
+(BA) 
+Phase - 
+ 
+ 
+ 
+Role of a Developer in SDLC Phases 
+SDLC Phase Developer’s Role / Tasks 
+ Analysis - Study the System Requirements Specification (SRS) and 
+understand required functionalities. - Suggest technical solutions to meet requirements. - Identify technical constraints and potential risks. 
+ Design - Create technical system designs (architecture and module 
+design). - Choose programming languages and frameworks. - Plan database structures and APIs. - Collaborate with UX/UI designers and DBAs for a 
+comprehensive design. 
+ Development / 
+Implementation - Write source code according to the design. - Develop and integrate system modules. - Document code for maintainability. - Implement security measures and ensure code quality 
+during development. 
+   
+ 
+   
+ 
+ Testing - Fix defects identified by the QA team. - Support QA in testing complex functionalities. - Optimize performance based on test results. 
+ Implementation / 
+Deployment - Deploy the system to the production environment. - Support the technical team in resolving issues during 
+deployment. - Ensure all system components function correctly after 
+release. 
+ Maintenance - Apply patches and updates. - Improve system performance and fix unexpected errors. - Develop new features based on user feedback. - Update technical documentation for future maintenance. 
+ 
+  
+   
+ SDLC Analysis for a Food Delivery App 
+Analysis 
+• Goal: Gather and understand user and stakeholder requirements. 
+• Concrete Examples: 
+o Interview customers to determine needs: online payment, order tracking, 
+restaurant ratings. 
+o Interview restaurants to understand their requirements: menu management, 
+order acceptance, promotions. 
+o Create a Software Requirements Specification (SRS) document to clearly 
+define all functionalities. 
+Design 
+• Goal: Convert requirements into system architecture and user interface designs. 
+• Concrete Examples: 
+o Design user interface for the customer: login screen, restaurant list, checkout 
+page, order tracking. 
+o Database design: tables for users, orders, restaurants, and drivers. 
+o Infrastructure design: backend server, APIs, integration with payment 
+gateways and Google Maps. 
+Development 
+• Goal: Build the application according to the design. 
+• Concrete Examples: 
+o Develop mobile apps for iOS and Android using Flutter or React Native. 
+o Build the backend with Node.js or Python to handle order processing. 
+o Integrate payment gateways and connect the system with Google Maps for 
+driver tracking. 
+   
+ 
+   
+ 
+Testing 
+• Goal: Ensure the app works correctly and meets user requirements. 
+• Concrete Examples: 
+o Functional testing: login, restaurant search, checkout, order tracking. 
+o Performance testing: app load times, server capacity to handle thousands of 
+orders. 
+o Security testing: protect user and payment data. 
+Implementation / Deployment 
+• Goal: Launch the application for real users. 
+• Concrete Examples: 
+o Publish the app on App Store and Google Play. 
+o Connect the system with restaurants and drivers. 
+o Train the support team to handle user issues. 
+o  
+Maintenance 
+• Goal: Continuously improve the app and fix issues after release. 
+• Concrete Examples: 
+o Update the app to fix bugs and improve performance. 
+o Add new features: promotions, multi-language support, improved order 
+tracking. 
+o Optimize the database and server infrastructure to support more users. 
+ 
+ 
+ 
+  
+Timeline for a 6-Month Software Project 
+Phase Duration Justification 
+Analysis 4 weeks Gathering clear requirements from users and 
+stakeholders to avoid misunderstandings. 
+Design 4 weeks Designing UI, database, and infrastructure 
+reduces issues during development. 
+Development 12 weeks Coding all components, developing mobile 
+apps and backend services. 
+Testing 3 weeks Testing functionality, performance, security, 
+and user experience to ensure quality. 
+Implementation / 
+Deployment 
+1 week Launching the app on platforms and 
+connecting with restaurants and drivers. 
+Maintenance On going after 
+release 
+Fixing bugs, implementing improvements, and 
+adding new features after users start using the 
+app. 
+ 
+ 
+ 
+ 
+ 
+1. Analysis Phase 
+• Key Tasks: Gather requirements from users and stakeholders, and document clear 
+system specifications. 
+• Negative Impact if Ignored or Poorly Executed: 
+o Unclear or incomplete requirements: Leads to building unnecessary 
+features or missing essential ones. 
+o Increased cost and time: Developers may need to redo code or redesign 
+the system to meet actual requirements. 
+o Low user satisfaction: The final product may not meet users’ needs. 
+• Real Example: 
+   
+ 
+   
+ 
+o A food delivery app is developed without properly analyzing restaurant needs. 
+Result: restaurants cannot update menus easily, causing customer 
+complaints and reduced app usage. 
+ 
+2. Testing Phase 
+• Key Tasks: Ensure the system works correctly, performs well, and is secure. 
+• Negative Impact if Ignored or Poorly Executed: 
+o Frequent software bugs: Application crashes or data loss during use. 
+o Performance issues: Slow app response or failures under high load. 
+o Security problems: User data leaks or system breaches. 
+• Real Example: 
+o Launching a new banking app without sufficient testing. Result: users face 
+login issues, failed payments, and loss of trust in the platform. 
+ 
+ Why it’s the longest and most costly: 
+• Lasts throughout the software’s lifetime. 
+• Fixing post-release bugs is more expensive than during development. 
+   
+ 
+   
+ 
+• Adding features, improving performance, and ensuring compatibility with new 
+devices/OS increases costs. 
+• Example: Banking app needs updates for OS changes, security patches, and bug 
+fixes. 
+Types of Maintenance: 
+1. Corrective: Fixing bugs. 
+a. Example: Payment errors corrected after release. 
+2. Adaptive: Updating for new environments. 
+a. Example: App updated for latest iOS/Android. 
+3. Perfective/Enhancement: Improving features or performance. 
+a. Example: Adding restaurant ratings in a food delivery app. 
+4. Preventive: Prevent future issues. 
+a. Example: Optimizing database to handle more users. 
+ 
+ 
+ 
+  
+   
+ 
+   
+  
+The Role of AI and Automation in SDLC 
+Artificial Intelligence (AI) and automation are increasingly used to improve software quality, 
+speed up processes, and reduce human errors in the Software Development Life Cycle 
+(SDLC). They can be applied in several phases, including: 
+ 
+1. Analysis Phase 
+• AI Role: 
+o Using Natural Language Processing (NLP) to extract and analyze user 
+requirements from texts, emails, and conversations. 
+o Automatically detecting inconsistencies or ambiguities in system 
+requirements. 
+• Examples: Tools like IBM DOORS help convert user feedback and emails into clear 
+system requirements. 
+ 
+2. Testing Phase 
+• AI & Automation Role: 
+o Automatically generating tests to cover as many scenarios as possible. 
+o Predicting the most likely defects based on past error patterns. 
+• Examples: Tools like Selenium and Test.ai use AI to identify UI elements and 
+create automated test cases. 
+ 
+Benefits: 
+• Reduces human errors. 
+• Speeds up analysis and testing. 
+• Improves the quality of the final product. 
+ 
+ 
+ 
+ 
