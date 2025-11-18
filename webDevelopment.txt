@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Responsibilities of Front-end, Back-end, and Database
 Front-End (Client-Side)
 
@@ -179,3 +180,6 @@ Database stores structured information and ensures data integrity.
 The .NET stack includes powerful tools like C#, SQL Server, EF Core, LINQ, and Blazor, ideal for enterprise development.
 
 C#, Java, and Python each have different strengths, with C# and Java leading in performance, and Python dominating data science.
+=======
+
+>>>>>>> 7effac7e45a3b4ec59ebc6ce0351f2f0c1a289e6
