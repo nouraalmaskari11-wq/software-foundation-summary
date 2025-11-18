@@ -1,0 +1,338 @@
+Noura almaskari 
+12/NOV/2025 
+
+ Agile
+ 
+"What is the Agile Manifesto , and how does it differ from traditional 
+project management methods?" 
+The Agile Manifesto is a foundational document introduced in 2001 by a group of 
+software development experts . It marked a major shift in how projects are 
+managed—especially in software development—by promoting a more flexible  ,
+ adaptive , and customer-centered approach compared to traditional , rigid methods 
+like the Waterfall model. 
+The Agile Manifesto is a mindset that emphasizes: 
+• Adapting to change quickly 
+• Strong collaboration and communication 
+• Delivering real value to the customer rapidly 
+• Reducing unnecessary bureaucracy 
+In contrast, traditional methods rely on rigid planning and centralized control, 
+making them less adaptable to change. 
+ 
+ 
+
+"What problems were the software industry trying to solve?" 
+Problems the software industry was trying to solve: 
+1. Software Complexity: Large programs became hard to understand and 
+manage. 
+2. Bugs and Errors: Many programs contained errors affecting performance. 
+3. Budget and Schedule Overruns: Projects often took longer and cost more 
+than expected. 
+4. Difficulty Adapting to Change: Modifying software after development was 
+challenging. 
+5. Low Code Reusability: Much code was rewritten for each project instead of 
+being reused. 
+6. Maintenance Challenges: Maintaining older software was expensive and 
+complex. 
+7. Team Collaboration Issues: Large teams struggled to coordinate work and 
+track changes. 
+ 
+ 
+ 
+ 
+
+ 
+"Compare Agile and Waterfall in detail in terms of: Planning, Handling 
+Changes, Customer Involvement, Product Delivery, Risk Management, 
+and Documentation." 
+ 
+Aspect Waterfall Agile 
+Planning Detailed and upfront Iterative and flexible 
+Handling Change Difficult Easy and adaptive 
+Customer 
+Involvement 
+Low Continuous and active 
+Product Delivery One final delivery Incremental and frequent 
+Risk Management Less flexible Early detection and continuous 
+management 
+Documentation Detailed and 
+comprehensive 
+Practical and minimal 
+ 
+ 
+ 
+When should we use Agile and when should we use Waterfall? 
+Give three scenarios for each 
+When to use Agile: 
+Agile is suitable when the project is flexible, has changing requirements, and 
+requires continuous customer interaction. 
+Scenarios: 
+1. Developing a modern web or mobile application: 
+a. Requirements may change quickly based on user or market needs. 
+b. Continuous updates are needed after each release. 
+2. Innovative or experimental projects: 
+a. The project scope is not fully defined at the start, and risks are high. 
+b. The team needs to experiment with ideas and adapt quickly. 
+3. Software requiring incremental delivery to the customer: 
+a. The customer wants to see parts of the product and provide feedback 
+before the full completion. 
+b. Example: SaaS platforms or products needing continuous UX 
+improvement. 
+When to use Waterfall: 
+Waterfall is suitable when the project is well-defined, has stable requirements, and 
+changes are unlikely. 
+Scenarios: 
+1. Government or banking systems with strict standards: 
+a. Requirements are clear from the start, and changes are costly. 
+b. Example: Payroll systems or banking payment systems. 
+2. Engineering or industrial projects (e.g., aviation, automotive): 
+a. Mistakes can be costly or unsafe, so full documentation and precise 
+steps are required. 
+3. Small projects or short-term applications with fixed requirements: 
+a. No major changes expected; final delivery is done in one batch. 
+b. Example: Static company website or a simple accounting system 
+
+
+Explain the concept of Continuous Delivery in Agile . How is it different from 
+delivering the product only at the end of the project? What are its benefits for 
+the client and the team 
+1. What is Continuous Delivery (CD)? 
+Continuous Delivery is a software development practice that ensures the product is 
+always in a deployable state. 
+2. Difference between Continuous Delivery and End-of-Project Delivery 
+Aspect Continuous Delivery End-of-Project 
+Delivery 
+Timing Continuous, after each 
+change 
+Only at the end 
+Client 
+Feedback 
+Immediate, ongoing Only at the end 
+Risk Low, small changes High, errors appear late 
+Flexibility High, easy to adjust Low, hard to change 
+ 
+3. Benefits of Continuous Delivery 
+For the Client: 
+1. Sees product improvements continuously. 
+2. Can provide early feedback to guide development. 
+3. Reduces risk, as the product is always functional and stable. 
+For the Team: 
+1. Detects bugs early before they become serious. 
+2. Increases productivity and flexibility. 
+3. Improves product quality due to automated testing. 
+4. Reduces pressure at the final release, as work is incremental. 
+ 
+ 
+ 
+
+•  
+What is a cross-functional team? Why is this concept important in Agile? How 
+does it differ from the traditional role-based team structure? 
+A cross-functional team has all the skills needed to complete a project from start to 
+finish without relying on other teams. 
+Importance in Agile: fast delivery, better collaboration, adaptability, and shared 
+ownership. 
+Difference from traditional teams: 
+• Cross-functional: all skills in one team, flexible, fast, shared responsibility. 
+• Traditional: separate specialized teams, dependent on others, slower, split 
+responsibility. 
+ 
+ 
+
+ 
+What does “Change Embrace” mean? How does Agile handle changing 
+requirements during development? Give a practical example. 
+Change Embrace means accepting change and seeing it as an opportunity for 
+improvement rather than an obstacle. 
+How Agile handles changing requirements: 
+• Development is incremental, in small parts. 
+• Priorities are reviewed regularly in each Sprint. 
+• Continuous communication with the client allows changes to be incorporated 
+quickly. 
+• Frequent delivery enables adaptation without disrupting the project. 
+Practical example: 
+ A team is developing a shopping app. During a Sprint, the client requests adding 
+cryptocurrency payment. The team updates the backlog and implements this feature 
+in the next Sprint without delaying other features. 
+ 
+ 
+ 
+
+ 
+Choose a system or application you know (e.g., delivery app, shopping 
+website, booking system) and assume it is developed using Agile: 
+• How is the work divided? 
+• How are feature priorities handled? 
+• How does the client participate in development? 
+• What are the benefits of using Agile? 
+Work Division: 
+• A cross-functional team (developers, designers, QA, product owner). 
+• Application split into small features for each Sprint (user accounts, shopping 
+cart, payment, etc.). 
+Feature Priorities: 
+• A product backlog lists all features and priorities. 
+• Backlog is reviewed and updated each Sprint based on value and client 
+requests. 
+Client Participation: 
+• Attends Sprint Reviews and provides feedback. 
+• Monitors incremental releases to ensure requirements are met. 
+Benefits of Agile: 
+• Faster delivery and higher flexibility. 
+• Better quality and increased client satisfaction. 
+• Motivated team with full ownership of the product. 
+ 
+ 
+ 
+
+ •
+ •
+ •
+ "What is the importance of short
+ them? What are their benefits? And what are the main types?"
+ Why We Need Short, Regular Meetings 
+• Improve communication: Everyone knows what others are working on. 
+• Identify problems early: Obstacles can be solved quickly before they escalate. 
+• Increase transparency and accountability: Every team member shares 
+progress and responsibilities. 
+• Faster decision-making: Discuss key issues without delays. 
+Benefits 
+• Save time through short meetings (usually 15 minutes). 
+• Focus only on what’s important. 
+• Enhance collaboration and team support. 
+• Increase flexibility to adjust plans quickly. 
+• Improve team satisfaction and engagement. 
+Common Types of Short Agile Meetings 
+• Daily Stand-up: Update progress and discuss daily obstacles. 
+• Sprint Planning: Define sprint goals and tasks to be completed. 
+• Sprint Review: Review achievements and gather stakeholder feedback. 
+• Sprint Retrospective: Evaluate performance and plan for improvements. 
+• Backlog Refinement: Prepare and improve backlog items for the next sprint. 
+ 
+ 
+ 
+
+ 
+List six main benefits of using Agile with practical examples for each. 
+1. Adaptability to Change – Agile allows easy adjustment of priorities 
+ Example: Adding a new feature to an app during the project. 
+2. Improved Product Quality – Delivering and testing small increments reduces 
+errors. 
+ Example: Running unit tests after each sprint. 
+3. Higher Customer Satisfaction – Continuous client involvement builds trust. 
+ Example: Providing a demo version to the client every two weeks. 
+4. Risk Reduction – Problems are discovered early before they escalate. 
+ Example: Fixing database conflicts in an early sprint. 
+5. Enhanced Team Motivation & Productivity – Collaborative work increases 
+commitment. 
+ Example: The team plans and executes tasks independently. 
+6. Continuous Visibility of Progress – Clear tracking of project status at all 
+times. 
+ Example: Using a Kanban board to monitor daily tasks. 
+ 
+ 
+
+ 
+Agile outside software development: Find two other fields where Agile is 
+used (such as marketing, education, construction) and explain how it is 
+applied 
+ 
+1. Marketing 
+• How Agile is applied in marketing: 
+o Marketing teams use Agile to organize campaigns faster and respond 
+more effectively to market changes. 
+o Projects are divided into short sprints, usually weekly or biweekly. 
+o Teams focus on testing small campaigns and analyzing results 
+before launching bigger campaigns, reducing risk and increasing 
+budget efficiency. 
+o Daily meetings (Daily Stand-ups) help track progress and quickly 
+resolve obstacles. 
+• Example: Testing a new social media ad for a week, then adjusting the 
+message or design based on performance before a full-scale launch. 
+ 
+2. Construction / Engineering Projects 
+• How Agile is applied in construction: 
+o Large construction projects are divided into small phases similar to 
+sprints (e.g., foundation, structure, finishing). 
+o Teams of engineers, architects, and contractors work closely and 
+review results regularly. 
+o Flexibility is key: If client requirements change or technical problems 
+arise, project plans can be adjusted without delaying the whole 
+schedule. 
+o Regular meetings and continuous evaluation reduce costly errors and 
+increase client satisfaction. 
+• Example: A construction team delivers the ground floor first to test the 
+design, then continues with the remaining floors while fixing any issues 
+discovered. 
+
+How can Agile principles be applied to geographically distributed teams? What 
+tools help, and what are the specific challenges 
+️Key Agile Practices for Distributed Teams 
+• Continuous Communication: Daily stand-ups via Zoom/Teams; record 
+meetings for different time zones. 
+• Transparency & Visibility: Digital Kanban/Scrum boards to track progress. 
+• Task Management: Keep Product and Sprint Backlogs updated digitally. 
+• Interactive Meetings: Sprint Planning, Review, and Retrospective using tools 
+that allow real-time participation. 
+• Collaboration: Pair programming, code reviews, and real-time document 
+sharing. 
+Useful Tools 
+• Project Management: Jira, Trello, Asana 
+• Communication: Zoom, Microsoft Teams, Slack 
+• Collaboration & Documentation: Confluence, Notion, Google Workspace 
+• Visual Collaboration: Miro, MURAL, Figma 
+Challenges & Solutions 
+• Time Zone Differences: Rotate meeting times, record sessions. 
+• Reduced Personal Interaction: Virtual coffee breaks, short video chats. 
+• Building Trust & Team Spirit: Remote team-building activities, sharing 
+successes regularly. 
+• Limited Non-Verbal Communication: Use video and clear written notes. 
+• Different Tools or Technology: Standardize the tool stack across the team. 
+   Focus: Effective communication, transparency, and continuous delivery. 
+ 
+
+ Agile is not a magic solution" – Identify three common criticisms of 
+Agile, analyze them objectively, and explain when Agile might not be 
+suitable.
+ 1. Lack of Long-Term Planning 
+.
+ .
+ .
+ .
+ 1
+ 2
+ 3
+ 4
+ • Criticism: Agile emphasizes iterative development and continuous delivery 
+instead of comprehensive upfront planning, which may reduce long-term 
+visibility of the project. 
+• Objective Analysis: 
+o Pros: Agile allows teams to quickly adapt to changing customer 
+requirements and reduces risks associated with rigid plans. 
+o Cons: In highly complex projects or regulated industries, the lack of 
+detailed long-term planning can cause scheduling or compliance 
+issues. 
+2. High Dependence on Skilled Teams 
+• Criticism: Agile assumes that teams are highly skilled, autonomous, and 
+capable of making fast decisions, which can be challenging for inexperienced 
+or poorly coordinated teams. 
+• Objective Analysis: 
+o Pros: Skilled teams can innovate quickly and continuously improve the 
+product. 
+o Cons: Less experienced or heterogeneous teams may struggle to 
+follow Agile principles, leading to delays or chaos. 
+3. Difficulty Estimating Time and Cost 
+• Criticism: The iterative nature of Agile makes it hard to predict exact 
+timelines and costs, which can be problematic for stakeholders or projects 
+with fixed budgets. 
+• Objective Analysis: 
+o Pros: Agile provides flexibility in resource allocation and reduces waste 
+on non-essential features. 
+o Cons: In projects with strict budgets or contracts, inaccurate 
+estimations may result in cost overruns or missed deadlines. 
+When Might Agile Not Be Suitable? 
+1. Projects with fixed and well-defined requirements (e.g., financial or legal 
+systems). 
+2. Projects with strict time or budget constraints. 
+3. Teams that are not autonomous or lack experience in self-organized 
+collaboration. 
+4. Highly regulated environments that require extensive documentation and strict 
+compliance (e.g., healthcare, aviation, defense). 
